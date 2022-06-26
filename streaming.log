@@ -1,0 +1,6 @@
+INFO 2022-05-23 20:44:55,674 root First code, perhaps!
+INFO 2022-05-23 20:44:59,500 logger1.area1 Here for logger1!
+DEBUG 2022-05-23 20:44:59,502 logger1.area1 debug for l1!
+INFO 2022-05-23 20:44:59,503 logger2.area2 Here for logger2!
+DEBUG 2022-05-23 20:44:59,505 logger2.area2 debug for l2!
+WARNING 2022-05-23 20:44:59,506 logger1.area1 Warning forL1!!!!
